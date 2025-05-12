@@ -1,11 +1,5 @@
 # UPSC-PCS-Quiz-Generator-App
 
 
-Project Structure
+![image](https://github.com/user-attachments/assets/27442636-ad45-4aa5-86d1-e9a94f641da4)
 
-├── main.py                 # Main Streamlit application
-├── utils.py               # Question generator utility
-├── requirements.txt       # Project dependencies
-├── .env                  # Environment variables
-├── results/              # Generated quiz results
-└── README.md            # Project documentation
